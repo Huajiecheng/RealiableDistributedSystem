@@ -1,0 +1,11 @@
+{
+    "host" : "localhost",
+    "port1" : 10087,
+    "port2" : 10088,
+    "port3" : 10089,
+    "timeout" : 1,
+    "retry" : 3,
+    "buffSize" : 1024,
+
+    "cid" : 1
+}

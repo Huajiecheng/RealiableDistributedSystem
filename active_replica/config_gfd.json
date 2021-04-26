@@ -1,0 +1,10 @@
+{
+    "mask" : "",
+    "port" : 12345,
+    "buffSize" : 1024,
+    "ip_repmgn": "localhost",
+    "port_repmgn": 12340,
+    "timeout": 1,
+    "retry": 3,
+    "interval": 1
+}

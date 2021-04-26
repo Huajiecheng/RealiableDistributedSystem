@@ -1,0 +1,17 @@
+{
+    "host" : "localhost",
+    "mask" : "",
+    "sid" : 1,
+    "port" : 10087,
+    
+    "timeout" : 1,
+    "retry" : 3,
+    "interval": 1,
+
+    "ip_gfd": "localhost",
+    "port_gfd" : 12345,
+
+    "port_lfd": 10000,
+    
+    "buffSize" : 1024
+}
